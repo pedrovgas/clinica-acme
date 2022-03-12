@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clinica-acme/static/css/main.21c6e59c.css",
+    "main.js": "/clinica-acme/static/js/main.742e7c0f.js",
+    "static/js/787.52df2925.chunk.js": "/clinica-acme/static/js/787.52df2925.chunk.js",
+    "index.html": "/clinica-acme/index.html",
+    "main.21c6e59c.css.map": "/clinica-acme/static/css/main.21c6e59c.css.map",
+    "main.742e7c0f.js.map": "/clinica-acme/static/js/main.742e7c0f.js.map",
+    "787.52df2925.chunk.js.map": "/clinica-acme/static/js/787.52df2925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c6e59c.css",
+    "static/js/main.742e7c0f.js"
+  ]
+}
